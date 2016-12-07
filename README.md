@@ -2,9 +2,18 @@
 
 A barebones Java app, which can easily be deployed to Heroku.
 
+The example can be found at:
+https://kcs-hello.herokuapp.com
+
+The example is connected with this Github repository. Each commit to this repository deploys the app to Heroku automatically.
+
 This application supports the [Getting Started with Java on Heroku](https://devcenter.heroku.com/articles/getting-started-with-java) article - check it out.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+1. Clone/fork this project
+2. Use the deploy button to connect it to your own app [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+3. Set up Github integration within your Heroku account so that it monitors changes in your repository.
+
 
 ## Running Locally
 
